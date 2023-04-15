@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: dawali
+Favorite musician/band: tamer naffar 
+Favorite movie: harry potter
+Requested grade in the course: 100 
